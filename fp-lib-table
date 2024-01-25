@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "daisy-drums")(type "KiCad")(uri "${KIPRJMOD}/daisy-drums.pretty")(options "")(descr ""))
+)
